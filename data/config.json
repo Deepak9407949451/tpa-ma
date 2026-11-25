@@ -1,0 +1,12 @@
+{
+  "syncApiUrl": "https://script.google.com/macros/s/AKfycbzjgJGCVtceinpTwI2jVMjLKoMokTR2Vu_V224GwnSftBiozRxnQqwMF08SWerRy9qL/exec",
+  "spreadsheetSharingLink": "https://docs.google.com/spreadsheets/d/1l_TC7-xxIKC9BX10m2N4y6NS3a2hfsJRfpDC8TONBaM/edit?gid=0#gid=0",
+  "outputDirectory": "./PatientFolders",
+  "metadataSyncApiUrl": "https://script.google.com/macros/s/AKfycbzjgJGCVtceinpTwI2jVMjLKoMokTR2Vu_V224GwnSftBiozRxnQqwMF08SWerRy9qL/exec",
+  "metadataSpreadsheetSharingLink": "https://docs.google.com/spreadsheets/d/1ka0u9rFh0nMLIVp8wdziBxIRyl17ZfkzllF5ALR29x0/edit?gid=0#gid=0",
+  "colASpreadsheetLink": "https://docs.google.com/spreadsheets/d/14cBw04czMq6RivZhYPdNH3Y3fw_JmQiG_Tx6qh4w4as/edit?gid=0#gid=0",
+  "colBSpreadsheetLink": "https://docs.google.com/spreadsheets/d/14cBw04czMq6RivZhYPdNH3Y3fw_JmQiG_Tx6qh4w4as/edit?gid=0#gid=0",
+  "notepadNote": "https://docs.google.com/spreadsheets/d/1l_TC7-xxIKC9BX10m2N4y6NS3a2hfsJRfpDC8TONBaM/edit?gid=0#gid=0",
+  "dashboardSyncApiUrl": "https://script.google.com/macros/s/AKfycbzjgJGCVtceinpTwI2jVMjLKoMokTR2Vu_V224GwnSftBiozRxnQqwMF08SWerRy9qL/exec",
+  "dashboardSpreadsheetSharingLink": "https://docs.google.com/spreadsheets/d/1l_TC7-xxIKC9BX10m2N4y6NS3a2hfsJRfpDC8TONBaM/edit?gid=0#gid=0"
+}

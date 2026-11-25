@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Insurance Claims Management System</title>
+    <meta name="description" content="Insurance Claims Management System for Arpa Medcity Hospital & Research Institute with live dashboard, hospital stay duration alert system, Google Sheet sync, WhatsApp integration, cover letter generator, and invoice calculator." />
+    <meta property="og:title" content="Insurance Claims Management System" />
+    <meta property="og:description" content="Insurance Claims Management System for Arpa Medcity Hospital & Research Institute with live dashboard, hospital stay duration alert system, Google Sheet sync, WhatsApp integration, cover letter generator, and invoice calculator." />
+    <script>
+      (function() {
+        try {
+          var mode = localStorage.getItem('themeMode') || 'dark';
+          document.documentElement.classList.remove('light', 'dark');
+          document.documentElement.classList.add(mode);
+          document.documentElement.setAttribute('data-theme', mode);
+        } catch (e) {}
+      })();
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
+

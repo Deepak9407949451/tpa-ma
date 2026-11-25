@@ -1,0 +1,8 @@
+{
+  "name": "Insurance Claims Management System",
+  "description": "Insurance Claims Management System for Arpa Medcity Hospital \u0026 Research Institute with live dashboard, Google Sheet sync, WhatsApp integration, cover letter generator, and invoice calculator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
